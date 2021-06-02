@@ -8,7 +8,7 @@
   "author": "Michele Bertoli",
   "license": "MIT",
   "dependencies": {
-    "react": "^0.13.3",
+    "react": "^0.14.10",
     "react-css-modules": "^3.0.2"
   },
   "devDependencies": {
