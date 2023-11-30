@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "jsxstyle": "0.0.14",
-    "react": "^0.13.3"
+    "react": "^15.0.0"
   },
   "devDependencies": {
     "babel-loader": "^5.1.3",
